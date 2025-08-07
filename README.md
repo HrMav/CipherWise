@@ -1,2 +1,3 @@
-# CipherWise.github.io
+# CipherWise
+
 Business Website for CipherWise Consultancy
